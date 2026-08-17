@@ -8,7 +8,7 @@ from tkinter import messagebox
 def connect_database():
     global mycursor, conn             # to use functions anywhere
     try:
-        conn = pymysql.connect(host='localhost', user='root', password='w3NW3n2005')
+        conn = pymysql.connect(host='localhost', user='root', password='Your Own Mysql Password')
         mycursor = conn.cursor()
     except:
         messagebox.showerror('Error', 'Something went wrong, please open MySQL before running again')
