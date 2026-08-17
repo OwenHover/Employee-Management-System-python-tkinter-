@@ -59,8 +59,6 @@ employee-management-system/
 
 The UI layout (CustomTkinter widgets and structure) was based on this YouTube tutorial: [Employee Management System in Python with CustomTkinter & MySQL](https://www.youtube.com/watch?v=a5iCRrygWxk). Credit to the original creator for the interface design.
 
-All core functionality — CRUD operations, database logic, and data handling — was independently designed and implemented by me.
-
 ## License
 
 This project is for educational purposes.
